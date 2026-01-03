@@ -1,0 +1,1 @@
+# cross-flatform-desktop-app-icon-generator
