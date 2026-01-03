@@ -14,7 +14,8 @@ A CLI tool that converts images into platform-specific icon formats for Windows,
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cross-platform-icon-generator.git
+git clone https://github.com/AhmetOsmn/cross-platform-desktop-app-icon-generator.git
+
 cd cross-platform-icon-generator
 
 # Install dependencies
